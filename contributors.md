@@ -1,1 +1,3 @@
-#기여자
+# 기여자
+
+[GU](https://github.com/jiyuPk)
